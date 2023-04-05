@@ -11,6 +11,6 @@ Simple Vanilla JS project with basic HTML and CSS.
 3. A message announcing the winner/draw are displayed.
 4. You can reset the game by pressing the "reset" button.
 
-<img src="https://github.com/Archita22ind/" >
+<img src="https://github.com/Archita22ind/Javascript-Tic-Tac-Toe_Project/blob/main/ticTacToeScreen.png" >
 
-<img src="https://github.com/Archita22ind/" >
+<img src="https://github.com/Archita22ind/Javascript-Tic-Tac-Toe_Project/blob/main/ticTacTowScreen2.png" >
